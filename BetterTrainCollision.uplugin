@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.1",
+	"VersionName": "1.1.0",
 	"FriendlyName": "BetterTrainCollision",
 	"Description": "Replaces the Train locomotive's collision with the Update 8 one, which more closely matches it's visuals.",
 	"Category": "Modding",
@@ -21,6 +21,6 @@
 			"SemVersion": "^3.8.0"
 		}
 	],
-	"SemVersion": "1.0.1",
+	"SemVersion": "1.1.0",
 	"GameVersion": ">=365306"
 }
