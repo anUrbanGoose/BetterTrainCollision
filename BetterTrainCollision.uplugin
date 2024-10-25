@@ -1,9 +1,9 @@
 {
 	"FileVersion": 3,
-	"Version": 1,
-	"VersionName": "1.1.2",
+	"Version": 2,
+	"VersionName": "2.0.0",
 	"FriendlyName": "BetterTrainCollision",
-	"Description": "Replaces the Train locomotive's collision with a fully custom one, which more closely matches it's visuals.",
+	"Description": "Replaces train collisions, and improves derailments.",
 	"Category": "Modding",
 	"CreatedBy": "TheUrbanGoose",
 	"CreatedByURL": "https://ficsit.app/user/7Bq8NxqGa8tGtJ",
@@ -21,6 +21,6 @@
 			"SemVersion": "^3.8.0"
 		}
 	],
-	"SemVersion": "1.1.2",
+	"SemVersion": "2.0.0",
 	"GameVersion": ">=365306"
 }
