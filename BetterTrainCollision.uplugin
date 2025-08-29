@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.1.2",
+	"VersionName": "2.2.0",
 	"FriendlyName": "BetterTrainCollision",
 	"Description": "Replaces train collisions, and improves derailments.",
 	"Category": "Modding",
@@ -21,6 +21,6 @@
 			"SemVersion": "^3.11.1"
 		}
 	],
-	"SemVersion": "2.1.2",
+	"SemVersion": "2.2.0",
 	"GameVersion": ">=416835"
 }
